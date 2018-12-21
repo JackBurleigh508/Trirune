@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 2bf538c24c29c3842b1b579d2a3986bd
+timeCreated: 1536834531
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wild Card 1
+    21300002: Card(Bl_E_pbb)
+    21300004: Wild Card 2
+    21300006: Card(Bl_E_gbb)
+    21300008: Wild Card 3
+    21300010: Wild Card 4
+    21300012: Card(Bl_C_pbb)
+    21300014: Card(Bl_C_ybb)
+    21300016: Card(Bl_C_gob)
+    21300018: White Card 1
+    21300020: Card(Bl_C_ypb)
+    21300022: White Card 2
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wild Card 1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.41214, y: -230.40334}
+        - {x: -302.41214, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -216.70169}
+        - {x: 48.730453, y: 262.5}
+        - {x: -18.072283, y: 262.5}
+        - {x: -194.50002, y: -24.878473}
+      - - {x: 147.47498, y: 203.96008}
+        - {x: 164.20062, y: 171.2196}
+        - {x: 206.82123, y: 136.76501}
+        - {x: 235.59729, y: 103.3136}
+        - {x: 227.23444, y: 137.0575}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Bl_E_pbb)
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1664
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.69, y: -174.69019}
+        - {x: -191.47058, y: -187.2345}
+        - {x: -170.56348, y: -168.80994}
+        - {x: -196.05524, y: -143.474}
+        - {x: -225.72833, y: -112.84595}
+        - {x: -193.23425, y: -104.48303}
+      - - {x: -301.9512, y: 262.5}
+        - {x: -301.9512, y: 235.88393}
+        - {x: -135.8008, y: -104.94482}
+        - {x: -14.185555, y: -262.5}
+        - {x: 28.636711, y: -262.5}
+        - {x: 194.78711, y: 26.933638}
+        - {x: 302, y: 242.73476}
+        - {x: 302, y: 262.5}
+      - - {x: 215.99744, y: -182.26416}
+        - {x: 199.8258, y: -199.59192}
+        - {x: 187.2815, y: -216.50427}
+        - {x: 239.27881, y: -166.32727}
+        - {x: 222.5531, y: -149.92346}
+        - {x: 224.00793, y: -168.3617}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wild Card 2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -297.77744, y: -221.83981}
+        - {x: -302.5, y: -244.105}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -226.97792}
+        - {x: 212.66399, y: -24.878473}
+        - {x: 13.968674, y: 262.5}
+        - {x: -8.298905, y: 262.5}
+        - {x: -23.714922, y: 250.86739}
+      - - {x: 264.05072, y: 262.5}
+        - {x: 267.4765, y: 245.72926}
+        - {x: 288.0312, y: 204.6243}
+        - {x: 300.02142, y: 196.06076}
+        - {x: 302.5, y: 196.06076}
+        - {x: 302.5, y: 262.5}
+      - - {x: -302.5, y: 262.5}
+        - {x: -302.5, y: 202.91159}
+        - {x: -292.63876, y: 202.91159}
+        - {x: -265.2325, y: 245.72926}
+        - {x: -265.2325, y: 262.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Bl_E_gbb)
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1661
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -235.55249, y: -121.165405}
+        - {x: -193.73828, y: -165.34131}
+        - {x: -178.47302, y: -182.0669}
+        - {x: -165.92871, y: -178.24023}
+        - {x: -216.91223, y: -146.2539}
+      - - {x: -302.45517, y: 262}
+        - {x: -302.45517, y: 247.16016}
+        - {x: -192.83015, y: 33.071747}
+        - {x: -11.263741, y: -261.5139}
+        - {x: 24.706963, y: -261.5139}
+        - {x: 286.77924, y: 180.36456}
+        - {x: 302.5, y: 240.30933}
+        - {x: 302.5, y: 262}
+      - - {x: 214.73792, y: -189.62695}
+        - {x: 206.9292, y: -213.80554}
+        - {x: 211.11047, y: -190.42981}
+        - {x: 197.96448, y: -194.6112}
+        - {x: 206.3274, y: -167.36182}
+        - {x: 219.32251, y: -164.89307}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wild Card 3
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.17958, y: -28.303888}
+        - {x: 10.326063, y: 262.5}
+        - {x: -18.79308, y: 262.5}
+        - {x: -284.29114, y: -177.30942}
+        - {x: -302.5, y: -240.67958}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -235.54146}
+        - {x: 282.6757, y: -182.44754}
+      - - {x: -248.1416, y: 191.4159}
+        - {x: -239.77869, y: 154.24658}
+        - {x: -229.37854, y: 141.7024}
+        - {x: -196.83374, y: 170.6643}
+        - {x: -184.28955, y: 191.4159}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wild Card 4
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 296.87497, y: -230.40334}
+        - {x: 264.33005, y: -167.03317}
+        - {x: 33.08982, y: 237.16574}
+        - {x: 15.960913, y: 262.5}
+        - {x: -25.148464, y: 262.5}
+        - {x: -302.5, y: -220.1271}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.01364, y: -262.5}
+        - {x: 302.5, y: -261.2321}
+        - {x: 302.5, y: -256.09396}
+        - {x: 302.01364, y: -249.24312}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Bl_C_pbb)
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302, y: 262}
+        - {x: -302, y: 224.78452}
+        - {x: -26.349625, y: -261.62433}
+        - {x: 9.621079, y: -261.62433}
+        - {x: 91.83983, y: -134.884}
+        - {x: 302, y: 243.6243}
+        - {x: 302, y: 262}
+      - - {x: 216.37762, y: -211.24658}
+        - {x: 216.37769, y: -236.53583}
+        - {x: 201.64594, y: -232.35443}
+        - {x: 239.27869, y: -185.7099}
+        - {x: 247.6416, y: -152.25854}
+        - {x: 230.08081, y: -191.04877}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Bl_C_ybb)
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 292
+        width: 610
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.7646475, y: 262}
+        - {x: -59.438477, y: 203.79556}
+        - {x: -304.38184, y: -244.93373}
+        - {x: -304.38184, y: -262}
+        - {x: 305, y: -262}
+        - {x: 305, y: -238.0829}
+        - {x: 19.354494, y: 262}
+      - - {x: -220.75342, y: 165.82733}
+        - {x: -250.02338, y: 137.24744}
+        - {x: -232.34045, y: 143.1416}
+        - {x: -195.06006, y: 164.8515}
+        - {x: -203.01971, y: 207.6416}
+      - - {x: 202.53381, y: 216.0044}
+        - {x: 210.8966, y: 175.7298}
+        - {x: 225.00293, y: 163.89471}
+        - {x: 238.09729, y: 134.62482}
+        - {x: 208.8274, y: 216.0044}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Bl_C_gob)
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.41052, y: -163.49146}
+        - {x: -185.42029, y: -171.85431}
+        - {x: -181.23877, y: -207.26593}
+        - {x: -160.61145, y: -203.08447}
+        - {x: -143.88574, y: -187.6701}
+        - {x: -171.84607, y: -167.8736}
+      - - {x: -302.5, y: 262}
+        - {x: -302.5, y: 224.78452}
+        - {x: -57.685547, y: -261.62433}
+        - {x: 19.394535, y: -261.62433}
+        - {x: 298.5957, y: 195.66849}
+        - {x: 302.5, y: 233.34805}
+        - {x: 302.5, y: 262}
+      - - {x: 202.4231, y: -170.69696}
+        - {x: 149.1726, y: -179.86261}
+        - {x: 142.32117, y: -194.52094}
+        - {x: 174.05957, y: -219.81012}
+        - {x: 172.87585, y: -182.17737}
+        - {x: 243.96008, y: -158.15271}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Card 1
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.47554, y: 66.778984}
+        - {x: 29.702093, y: 232.91159}
+        - {x: 7.434514, y: 262}
+        - {x: -13.120173, y: 262}
+        - {x: -184.40924, y: -29.132618}
+        - {x: -283.7569, y: -200.40334}
+        - {x: -302.5, y: -244.93373}
+        - {x: -302.5, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -251.78456}
+        - {x: 269.50677, y: -173.00003}
+      - - {x: -223.05298, y: 157.46454}
+        - {x: -206.3274, y: 110.84766}
+        - {x: -175.24158, y: 110.84766}
+        - {x: -130.90796, y: 132.95892}
+        - {x: -176.90356, y: 140.73883}
+      - - {x: 274.64545, y: 262}
+        - {x: 274.64545, y: 260.3149}
+        - {x: 281.497, y: 231.19888}
+        - {x: 302.0517, y: 214.07181}
+        - {x: 302.5, y: 214.07181}
+        - {x: 302.5, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Bl_C_ypb)
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 610
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256.0044, y: -164.49152}
+        - {x: -230.91577, y: -195.59729}
+        - {x: -198.50378, y: -212.32294}
+        - {x: -206.86658, y: -222.87744}
+        - {x: -235.02856, y: -185.39856}
+      - - {x: -302, y: 262.5}
+        - {x: -302, y: 136.43646}
+        - {x: -16.080095, y: -262.5}
+        - {x: 64.425766, y: -262.5}
+        - {x: 302, y: 206.65746}
+        - {x: 302, y: 262.5}
+      - - {x: 199.64429, y: -208.06519}
+        - {x: 203.82544, y: -208.14154}
+        - {x: 176.55737, y: -229.04865}
+        - {x: 243.4602, y: -180.05975}
+        - {x: 207.65454, y: -177.591}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Card 2
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 292
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.589935, y: 262}
+        - {x: -301.95908, y: -236.3702}
+        - {x: -301.95908, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -150.73483}
+        - {x: 25.203037, y: 262}
+      - - {x: -214.14917, y: 178.37164}
+        - {x: -209.96777, y: 154.37451}
+        - {x: -213.1919, y: 139.36157}
+        - {x: -192.6372, y: 138.05023}
+        - {x: -193.94678, y: 211.6499}
+        - {x: -193.94702, y: 216.0044}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

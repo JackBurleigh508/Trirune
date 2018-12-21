@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 0b5640a96e0bfda4dbd5ed6e651a0843
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Purple
+    21300002: Blue
+    21300004: Orange
+    21300006: Green
+    21300008: Orange
+    21300010: Yellow
+    21300012: Blue
+    21300014: Green
+    21300016: Yellow
+    21300018: Purple
+    21300020: White
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1661
+        width: 604
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -301.9512, y: 262}
+        - {x: -301.9512, y: 240.30933}
+        - {x: -12.472665, y: -261.5139}
+        - {x: 25.21093, y: -261.5139}
+        - {x: 302, y: 242.02203}
+        - {x: 302, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b7d557bb0606428fb6f13eddb5198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1661
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 302.5, y: 262}
+        - {x: -302.45517, y: 262}
+        - {x: -302.45517, y: 248.87286}
+        - {x: -132.87898, y: -54.276325}
+        - {x: -6.1250687, y: -261.5139}
+        - {x: 9.290947, y: -261.5139}
+        - {x: 156.59955, y: -13.1713505}
+        - {x: 295.3437, y: 231.74579}
+        - {x: 302.5, y: 250.58557}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9bd26753abea9ef4897dcc038bb91361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1660
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.5, y: 262.5}
+        - {x: -302.5, y: 249.58559}
+        - {x: -18.33203, y: -255.66306}
+        - {x: -13.1933565, y: -262.5}
+        - {x: 7.3613315, y: -262.5}
+        - {x: 163.23439, y: -45.000065}
+        - {x: 302.5, y: 239.30934}
+        - {x: 302.5, y: 262.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f621c4e55dc45842938b48ac66d5e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1006
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.898431, y: 262}
+        - {x: -302.37695, y: -228.00562}
+        - {x: -302.37695, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -233.14374}
+        - {x: 14.50782, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6bca485537c364ca08cd48c83fe5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1006
+        width: 604
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.865222, y: 261.82864}
+        - {x: 8.15233, y: 262}
+        - {x: -7.263685, y: 262}
+        - {x: -301.8809, y: -238.28186}
+        - {x: -301.8809, y: -262}
+        - {x: 302, y: -262}
+        - {x: 302, y: -246.8454}
+        - {x: 266.79883, y: -162.92274}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f7caa54c4e05b4290d8ed6b4f1658c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1006
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.044943, y: 262}
+        - {x: -59.15432, y: 237.85075}
+        - {x: -302.3848, y: -234.85645}
+        - {x: -302.3848, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -231.43103}
+        - {x: 31.628885, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213adb2803a70964589a945823d52ee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a90537fd66063e94482f9e1d68352df2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

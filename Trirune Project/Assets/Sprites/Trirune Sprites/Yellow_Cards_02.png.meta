@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: dfa6028844ac3fc4c82afd4c5500aa16
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Yellow_Cards_02_0
+    21300002: Card(Ye_E_pyy)
+    21300004: Yellow_Cards_02_2
+    21300006: Card(Ye_E_gyy)
+    21300008: Yellow_Cards_02_4
+    21300010: Yellow_Cards_02_5
+    21300012: Card(Ye_C_pyy)
+    21300014: Card(Ye_C_byy)
+    21300016: Card(Ye_C_goy)
+    21300018: Yellow_Cards_02_9
+    21300020: Card(Ye_C_bpy)
+    21300022: Yellow_Cards_02_11
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_Cards_02_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ac7ec637664e6395e0efbf13a845c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card(Ye_E_pyy)
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1660
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -262.5}
+        - {x: -302, y: 262.5}
+        - {x: 302, y: 262.5}
+        - {x: 46, y: -262.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25cada6e4d9449788091013c570b9cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Cards_02_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1347
+        width: 605
+        height: 526
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4451011a63640759974afbba96db3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card(Ye_E_gyy)
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1660
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -262.5}
+        - {x: -302.5, y: 262.5}
+        - {x: 302.5, y: 262.5}
+        - {x: 60.5, y: -262.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72976b7fbc3a84ea9b1b96bf860d8dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Cards_02_4
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1347
+        width: 605
+        height: 526
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccc2317c5dd24fbe8b5965af82c3c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Cards_02_5
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1347
+        width: 605
+        height: 526
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337d1352e5a844b1b07475339f95614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card(Ye_C_pyy)
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: -262}
+        - {x: -302, y: 262}
+        - {x: 302, y: 262}
+        - {x: 50, y: -262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2797e48c734407a0296be95bea9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card(Ye_C_byy)
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 292
+        width: 610
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -305, y: -262}
+        - {x: -47, y: 262}
+        - {x: 44, y: 262}
+        - {x: 305, y: -262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a4b1586948146c69b2ddf8aee4cbe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card(Ye_C_goy)
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: -262}
+        - {x: -302.5, y: 262}
+        - {x: 302.5, y: 262}
+        - {x: 53.5, y: -262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba11aef183e4324b27cafa7940f72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Cards_02_9
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e12fc648d8a443aaea8336c3df4d43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card(Ye_C_bpy)
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 610
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -262.5}
+        - {x: -302, y: 262.5}
+        - {x: 302, y: 262.5}
+        - {x: 35, y: -262.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7cbb2422d8411884e656051ad60aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Cards_02_11
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 292
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3530569e814cec898bcb5aa2fadf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9eaaa9660de84635ad5b0197d844943
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

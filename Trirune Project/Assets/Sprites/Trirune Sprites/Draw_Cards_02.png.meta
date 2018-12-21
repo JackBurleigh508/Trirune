@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: b58b8d7b3f9a5b7458c6438d04de5af8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Draw_1Pu.1Ye.2Na
+    21300002: Draw_1Pu..1Gr.2Na
+    21300004: Draw_1Pu..1Or.2Na
+    21300006: Draw_1Ye..1Gr.2Na
+    21300008: Draw_1Ye..1Or.2Na
+    21300010: Draw_1Or..1Gr.2Na
+    21300012: Draw_2Pu.2Na
+    21300014: Draw_2Bl.2Na
+    21300016: Draw_2Ye.2Na
+    21300018: Draw_1Na.3Na
+    21300020: Draw_2Gr.2Na
+    21300022: Draw_2Or.2Na
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Draw_1Pu.1Ye.2Na
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1343
+        width: 605
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.933611, y: 264}
+        - {x: -302.41214, y: -235.25974}
+        - {x: -302.41214, y: -264}
+        - {x: 300.5254, y: -264}
+        - {x: 302.5, y: -262.66306}
+        - {x: 302.5, y: -230.12161}
+        - {x: 12.759749, y: 264}
+      - - {x: 266.26758, y: 264}
+        - {x: 266.26758, y: 257.99994}
+        - {x: 276.54492, y: 237.44746}
+        - {x: 300.5254, y: 201.4806}
+        - {x: 302.5, y: 201.4806}
+        - {x: 240.5, y: 119}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e719feb170f904cb33b80ed0415adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_1Pu..1Gr.2Na
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1661
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -301.9512, y: -196.43103}
+        - {x: -182, y: -191}
+        - {x: -262.5547, y: -261.5139}
+        - {x: -126, y: -171}
+        - {x: -284.8223, y: -206.70728}
+        - {x: -298.52542, y: -196.43103}
+      - - {x: -301.9512, y: 262}
+        - {x: -301.9512, y: 240.30933}
+        - {x: -12.472665, y: -261.5139}
+        - {x: 25.21093, y: -261.5139}
+        - {x: 302, y: 242.02203}
+        - {x: 302, y: 262}
+      - - {x: 295.84766, y: -204.99457}
+        - {x: 270.1543, y: -247.81224}
+        - {x: 270.1543, y: -261.5139}
+        - {x: 174, y: -174}
+        - {x: 302, y: -204.99457}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d3040d8b2df147a156f2cbdb1f1a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_1Pu..1Or.2Na
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1343
+        width: 604
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -301.91602, y: -264}
+        - {x: 302, y: -264}
+        - {x: 302, y: -207.85643}
+        - {x: 128.01955, y: 196.34248}
+        - {x: 18.394547, y: 264}
+        - {x: -15.863266, y: 264}
+        - {x: -301.91602, y: -236.97244}
+      - - {x: 263.33792, y: 264}
+        - {x: 263.33792, y: 263.13806}
+        - {x: 294.16995, y: 211.75685}
+        - {x: 301.0215, y: 201.4806}
+        - {x: 302, y: 201.4806}
+        - {x: 232, y: 198}
+      - - {x: -240, y: 218}
+        - {x: -301.91602, y: 206.61873}
+        - {x: -249, y: 157}
+        - {x: -231, y: 198}
+        - {x: -215, y: 214}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6ea5135470284aaa4bb287ad8fd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_1Ye..1Gr.2Na
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1657
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.45517, y: -196.43103}
+        - {x: -186.5, y: -174}
+        - {x: -263.05865, y: -261.5139}
+        - {x: -264.77155, y: -254.66307}
+        - {x: -295.6036, y: -199.85645}
+        - {x: -300.74228, y: -196.43103}
+      - - {x: 302.5, y: 262}
+        - {x: -302.45517, y: 262}
+        - {x: -302.45517, y: 248.87286}
+        - {x: -132.87898, y: -54.276325}
+        - {x: -6.1250687, y: -261.5139}
+        - {x: 9.290947, y: -261.5139}
+        - {x: 156.59955, y: -13.1713505}
+        - {x: 295.3437, y: 231.74579}
+        - {x: 302.5, y: 250.58557}
+      - - {x: 283.35345, y: -227.25975}
+        - {x: 276.5019, y: -240.96141}
+        - {x: 269.65033, y: -258.08847}
+        - {x: 269.65033, y: -261.5139}
+        - {x: 194.5, y: -141}
+        - {x: 302.5, y: -204.99457}
+        - {x: 298.76947, y: -206.70728}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb04fc384cc426418159954384c68d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_1Ye..1Or.2Na
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1343
+        width: 603
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.75881, y: 264}
+        - {x: -301.2764, y: -238.68515}
+        - {x: -301.2764, y: -264}
+        - {x: 299.94824, y: -264}
+        - {x: 301.5, y: -260.95035}
+        - {x: 301.5, y: -142.77354}
+        - {x: 29.311506, y: 264}
+      - - {x: 265.69043, y: 264}
+        - {x: 267.40332, y: 257.99994}
+        - {x: 299.94824, y: 201.4806}
+        - {x: 301.5, y: 201.4806}
+        - {x: 231.5, y: 185}
+      - - {x: -226.5, y: 185}
+        - {x: -301.2764, y: 210.04414}
+        - {x: -296.13773, y: 211.75685}
+        - {x: -245.5, y: 210}
+        - {x: -221.5, y: 218}
+        - {x: -192.5, y: 223}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8dabeb3d416084799c311ab21080ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_1Or..1Gr.2Na
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1660
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -298.5333, y: -197.43102}
+        - {x: -301.95908, y: -197.43102}
+        - {x: -190, y: -171.5}
+        - {x: -262.5626, y: -262.5}
+        - {x: -262.5626, y: -255.66306}
+        - {x: -283.11728, y: -217.98349}
+      - - {x: -301.95908, y: 262.5}
+        - {x: -301.95908, y: 239.30934}
+        - {x: -24.470793, y: -262.5}
+        - {x: 13.212802, y: -262.5}
+        - {x: 302, y: 242.73476}
+        - {x: 302, y: 262.5}
+      - - {x: 297.55264, y: -205.99455}
+        - {x: 270.1464, y: -260.80118}
+        - {x: 270.1464, y: -262.5}
+        - {x: 207, y: -158.5}
+        - {x: 302, y: -205.99455}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cacdcdd0492704bb2c007c60491114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_2Pu.2Na
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1343
+        width: 605
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.396459, y: 264}
+        - {x: -8.019557, y: 264}
+        - {x: -37.1387, y: 223.7458}
+        - {x: -270.09183, y: -178.7404}
+        - {x: -302.5, y: -250.6741}
+        - {x: -302.5, y: -262.66306}
+        - {x: -300.92386, y: -264}
+        - {x: 302.5, y: -264}
+        - {x: 302.5, y: -238.68515}
+        - {x: 89.61521, y: 155.2375}
+      - - {x: -219.5, y: 181}
+        - {x: -302.5, y: 210.04414}
+        - {x: -299.21097, y: 210.04414}
+        - {x: -242.5, y: 177}
+        - {x: -255.5, y: 256}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13fbc0b663430c47a3f1fe1340116d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_2Bl.2Na
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 302, y: 262}
+        - {x: 302, y: 262}
+        - {x: -302, y: 262}
+        - {x: -302, y: 212.79556}
+        - {x: -12.6465, y: -256.4862}
+        - {x: -4.082046, y: -261.62433}
+        - {x: 7.9081883, y: -261.62433}
+        - {x: 47.304672, y: -201.6796}
+        - {x: 302, y: 247.04971}
+        - {x: 302, y: 253.90054}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0e1d3a559a0ca4ba2e5484c8cef466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_2Ye.2Na
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.5, y: 262}
+        - {x: -302.5, y: 241.91159}
+        - {x: -121.0625, y: -136.59671}
+        - {x: -11.437497, y: -261.62433}
+        - {x: 31.38477, y: -261.62433}
+        - {x: 144.43555, y: -57.81218}
+        - {x: 302.5, y: 238.48618}
+        - {x: 302.5, y: 262}
+      - - {x: 298.5957, y: -199.96689}
+        - {x: 276.32812, y: -223.94478}
+        - {x: 266.05078, y: -258.1989}
+        - {x: 266.05078, y: -261.62433}
+        - {x: 203.5, y: -170}
+        - {x: 302.5, y: -199.96689}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feabb44d195a92428458b5f23577080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_1Na.3Na
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.716741, y: 262}
+        - {x: -19.115292, y: 262}
+        - {x: -301.74225, y: -244.93373}
+        - {x: -301.74225, y: -262}
+        - {x: 302, y: -262}
+        - {x: 302, y: -231.23207}
+        - {x: 63.103462, y: 210.6464}
+      - - {x: -202, y: 150}
+        - {x: -301.74225, y: 198.65744}
+        - {x: -293.1778, y: 198.65744}
+        - {x: -267.48444, y: 234.6243}
+        - {x: -262.34576, y: 253.46408}
+        - {x: -262.34576, y: 262}
+      - - {x: 272.0761, y: 262}
+        - {x: 272.0761, y: 262}
+        - {x: 294.3437, y: 224.34805}
+        - {x: 302, y: 217.49722}
+        - {x: 302, y: 217.49722}
+        - {x: 211, y: 171}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56452880c0d8c5340918f5f5b1072f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_2Gr.2Na
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302, y: -213.66853}
+        - {x: -207, y: -191}
+        - {x: -273.0137, y: -261.62433}
+        - {x: -279.86526, y: -244.49727}
+        - {x: -298.70706, y: -213.66853}
+      - - {x: -302, y: 262}
+        - {x: -302, y: 250.47513}
+        - {x: -132.55666, y: -59.524887}
+        - {x: -9.228533, y: -261.62433}
+        - {x: 9.613264, y: -261.62433}
+        - {x: 19.890608, y: -254.77351}
+        - {x: 302, y: 241.91159}
+        - {x: 302, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f4f532a179d94c8df2adad2988f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draw_2Or.2Na
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300.92386, y: 262}
+        - {x: -302.5, y: 262}
+        - {x: -302.5, y: 253.90054}
+        - {x: -270.09183, y: 127.1602}
+        - {x: -14.8711195, y: -261.62433}
+        - {x: 33.08982, y: -261.62433}
+        - {x: 302.5, y: 248.76242}
+        - {x: 302.5, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7091cf0216d2e46830c5c4e58006b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c70df4c2461322440b1514917ddfae45
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: c7215ef997c1fe44b8cccaa282678a90
+timeCreated: 1536924131
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orange_Cards_02_0
+    21300002: Card(Or_E_poo)
+    21300004: Orange_Cards_02_2
+    21300006: Card(Or_E_goo)
+    21300008: Orange_Cards_02_4
+    21300010: Orange_Cards_02_5
+    21300012: Card(Or_C_poo)
+    21300014: Card(Or_C_boo)
+    21300016: Card(Or_C_gyo)
+    21300018: Orange_Cards_02_9
+    21300020: Card(Or_C_bpo)
+    21300022: Orange_Cards_02_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange_Cards_02_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.41214, y: -230.40334}
+        - {x: -302.41214, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -216.70169}
+        - {x: 48.730453, y: 262.5}
+        - {x: -18.072283, y: 262.5}
+        - {x: -194.50002, y: -24.878473}
+      - - {x: 206.01477, y: 229.04858}
+        - {x: 210.19623, y: 196.30823}
+        - {x: 244.45404, y: 145.1278}
+        - {x: 260.6858, y: 124.2207}
+        - {x: 231.4159, y: 170.50879}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Or_E_poo)
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1660
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205.77856, y: -203.96008}
+        - {x: -170.56348, y: -199.77869}
+        - {x: -187.28912, y: -198.07983}
+        - {x: -216.96234, y: -189.4696}
+        - {x: -217.36554, y: -163.02295}
+        - {x: -235.04846, y: -154.66003}
+      - - {x: -301.9512, y: 262.5}
+        - {x: -301.9512, y: 235.88393}
+        - {x: -135.8008, y: -104.94482}
+        - {x: -14.185555, y: -262.5}
+        - {x: 28.636711, y: -262.5}
+        - {x: 194.78711, y: 26.933638}
+        - {x: 302, y: 242.73476}
+        - {x: 302, y: 262.5}
+      - - {x: 195.09033, y: -211.53418}
+        - {x: 187.2815, y: -228.86182}
+        - {x: 187.28162, y: -249.95569}
+        - {x: 193.28308, y: -208.1416}
+        - {x: 230.9159, y: -183.37476}
+        - {x: 203.10071, y: -176.72461}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Cards_02_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -297.77744, y: -221.83981}
+        - {x: -302.5, y: -244.105}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -226.97792}
+        - {x: 212.66399, y: -24.878473}
+        - {x: 13.968674, y: 262.5}
+        - {x: -8.298905, y: 262.5}
+        - {x: -23.714922, y: 250.86739}
+      - - {x: 180.42236, y: 216.5044}
+        - {x: 200.57385, y: 195.55212}
+        - {x: 250.39844, y: 120.99597}
+        - {x: 228.93726, y: 158.4281}
+        - {x: 248.1416, y: 145.88379}
+        - {x: 218.87158, y: 178.8717}
+      - - {x: -181.23877, y: 199.77869}
+        - {x: -239.77869, y: 123.4646}
+        - {x: -200.64758, y: 144.3717}
+        - {x: -194.14844, y: 174.64514}
+        - {x: -185.78552, y: 170.50879}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Or_E_goo)
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1661
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218.8269, y: -142.07251}
+        - {x: -193.73828, y: -177.88562}
+        - {x: -165.92871, y: -219.6997}
+        - {x: -145.0216, y: -186.60303}
+        - {x: -191.82373, y: -150.43542}
+      - - {x: -302.45517, y: 262}
+        - {x: -302.45517, y: 247.16016}
+        - {x: -192.83015, y: 33.071747}
+        - {x: -11.263741, y: -261.5139}
+        - {x: 24.706963, y: -261.5139}
+        - {x: 286.77924, y: 180.36456}
+        - {x: 302.5, y: 240.30933}
+        - {x: 302.5, y: 262}
+      - - {x: 202.1936, y: -210.53406}
+        - {x: 202.74768, y: -234.71265}
+        - {x: 165.11499, y: -228.06262}
+        - {x: 177.05737, y: -223.88123}
+        - {x: 235.59729, y: -163.18042}
+        - {x: 215.14111, y: -177.43726}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Cards_02_4
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.17958, y: -28.303888}
+        - {x: 10.326063, y: 262.5}
+        - {x: -18.79308, y: 262.5}
+        - {x: -284.29114, y: -177.30942}
+        - {x: -302.5, y: -240.67958}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -235.54146}
+        - {x: 282.6757, y: -182.44754}
+      - - {x: -231.4159, y: 166.32727}
+        - {x: -235.59729, y: 129.15808}
+        - {x: -267.01135, y: 150.06519}
+        - {x: -201.01514, y: 199.93433}
+        - {x: -205.19653, y: 195.59717}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Cards_02_5
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 296.87497, y: -230.40334}
+        - {x: 264.33005, y: -167.03317}
+        - {x: 33.08982, y: 237.16574}
+        - {x: 15.960913, y: 262.5}
+        - {x: -25.148464, y: 262.5}
+        - {x: -302.5, y: -220.1271}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.01364, y: -262.5}
+        - {x: 302.5, y: -261.2321}
+        - {x: 302.5, y: -256.09396}
+        - {x: 302.01364, y: -249.24312}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Or_C_poo)
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302, y: 262}
+        - {x: -302, y: 224.78452}
+        - {x: -26.349625, y: -261.62433}
+        - {x: 9.621079, y: -261.62433}
+        - {x: 91.83983, y: -134.884}
+        - {x: 302, y: 243.6243}
+        - {x: 302, y: 262}
+      - - {x: 182.92633, y: -202.88379}
+        - {x: 182.92627, y: -215.62872}
+        - {x: 205.82733, y: -182.1773}
+        - {x: 239.27875, y: -152.25854}
+        - {x: 226.7345, y: -164.8028}
+        - {x: 250.98785, y: -136.69025}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Or_C_boo)
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 292
+        width: 610
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.7646475, y: 262}
+        - {x: -59.438477, y: 203.79556}
+        - {x: -304.38184, y: -244.93373}
+        - {x: -304.38184, y: -262}
+        - {x: 305, y: -262}
+        - {x: 305, y: -238.0829}
+        - {x: 19.354494, y: 262}
+      - - {x: -204.02777, y: 174.19019}
+        - {x: -275.11188, y: 103.79608}
+        - {x: -244.88477, y: 122.2345}
+        - {x: -220.14862, y: 160.67004}
+        - {x: -177.93115, y: 207.64154}
+      - - {x: 198.35242, y: 186.7345}
+        - {x: 206.71521, y: 184.09259}
+        - {x: 241.72864, y: 130.44342}
+        - {x: 279.9115, y: 88.62921}
+        - {x: 246.46008, y: 124.01318}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Or_C_gyo)
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -226.40613, y: -176.03577}
+        - {x: -235.59729, y: -150.9472}
+        - {x: -235.59729, y: -203.08441}
+        - {x: -185.69995, y: -203.08447}
+        - {x: -181.51855, y: -208.57721}
+        - {x: -192.75305, y: -163.6922}
+      - - {x: -302.5, y: 262}
+        - {x: -302.5, y: 224.78452}
+        - {x: -57.685547, y: -261.62433}
+        - {x: 19.394535, y: -261.62433}
+        - {x: 298.5957, y: 195.66849}
+        - {x: 302.5, y: 233.34805}
+        - {x: 302.5, y: 262}
+      - - {x: 219.14868, y: -170.69696}
+        - {x: 203.53113, y: -188.2254}
+        - {x: 217.58667, y: -211.24664}
+        - {x: 194.96655, y: -207.26587}
+        - {x: 177.05737, y: -211.44733}
+        - {x: 231.41577, y: -153.97131}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Cards_02_9
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.47554, y: 66.778984}
+        - {x: 29.702093, y: 232.91159}
+        - {x: 7.434514, y: 262}
+        - {x: -13.120173, y: 262}
+        - {x: -184.40924, y: -29.132618}
+        - {x: -283.7569, y: -200.40334}
+        - {x: -302.5, y: -244.93373}
+        - {x: -302.5, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -251.78456}
+        - {x: 269.50677, y: -173.00003}
+      - - {x: -302.5, y: 262}
+        - {x: -302.5, y: 198.65744}
+        - {x: -292.32135, y: 198.65744}
+        - {x: -256.35065, y: 250.03867}
+        - {x: -256.35065, y: 262}
+      - - {x: 274.64545, y: 262}
+        - {x: 274.64545, y: 260.3149}
+        - {x: 281.497, y: 231.19888}
+        - {x: 302.0517, y: 214.07181}
+        - {x: 302.5, y: 214.07181}
+        - {x: 302.5, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Or_C_bpo)
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 610
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -243.46008, y: -139.40295}
+        - {x: -193.28308, y: -178.87158}
+        - {x: -198.50366, y: -178.87164}
+        - {x: -211.04797, y: -172.70044}
+        - {x: -222.48425, y: -160.31006}
+      - - {x: -302, y: 262.5}
+        - {x: -302, y: 136.43646}
+        - {x: -16.080095, y: -262.5}
+        - {x: 64.425766, y: -262.5}
+        - {x: 302, y: 206.65746}
+        - {x: 302, y: 262.5}
+      - - {x: 153.64844, y: -212.24664}
+        - {x: 182.91846, y: -195.59729}
+        - {x: 201.646, y: -174.69019}
+        - {x: 243.4602, y: -125.701294}
+        - {x: 232.74292, y: -156.68396}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Cards_02_11
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 292
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.589935, y: 262}
+        - {x: -301.95908, y: -236.3702}
+        - {x: -301.95908, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -150.73483}
+        - {x: 25.203037, y: 262}
+      - - {x: -301.95908, y: 262}
+        - {x: -301.95908, y: 200.37015}
+        - {x: -296.8204, y: 202.08286}
+        - {x: -276.26572, y: 217.49722}
+        - {x: -260.8497, y: 253.46408}
+        - {x: -260.8497, y: 262}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Primary Socket
+  - Secondary Socket
+  - Blue Card
+  - Green Card
+  - Orange Card
+  - Purple Card
+  - Yellow Card
+  - Draw Card
+  - Selected
+  - SWires
+  - Selector Card
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pieces
+  - Sockets
+  - Wires
+  - Converter
+  - SWires
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3456622995
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

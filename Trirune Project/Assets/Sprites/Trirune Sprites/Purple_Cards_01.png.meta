@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 4eb3fa6ec23af714cae4c2ed87ebb7dc
+timeCreated: 1536925382
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Card(Pu_A_gyp)
+    21300002: Card(Pu_A_gpp)
+    21300004: Card(Pu_B_obp)
+    21300006: Card(Pu_A_opp)
+    21300008: Card(Pu_B_pop)
+    21300010: Card(Pu_A_bop)
+    21300012: Card(Pu_B_ypp) (0)
+    21300014: Card(Pu_B_ypp) (1)
+    21300016: Card(Pu_D_pgp)
+    21300018: Card(Pu_D_pyp)
+    21300020: Card(Pu_E_yop)
+    21300022: Card(Pu_D_byp)
+    21300024: Card(Pu_E_bgp)
+    21300026: Card(Pu_D_gop)
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Card(Pu_A_gyp)
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.41214, y: -230.40334}
+        - {x: -302.41214, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -216.70169}
+        - {x: 48.730453, y: 262.5}
+        - {x: -18.072283, y: 262.5}
+        - {x: -194.50002, y: -24.878473}
+      - - {x: 197.65198, y: 162.146}
+        - {x: 206.01483, y: 133.58691}
+        - {x: 248.63544, y: 120.03931}
+        - {x: 239.77869, y: 107.494995}
+        - {x: 214.69025, y: 145.42017}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_A_gpp)
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1660
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -226.68567, y: -187.23438}
+        - {x: -195.65198, y: -208.1416}
+        - {x: -195.65198, y: -206.44275}
+        - {x: -187.69232, y: -160.19958}
+        - {x: -217.36554, y: -163.02283}
+        - {x: -251.77417, y: -117.02734}
+      - - {x: -301.9512, y: 262.5}
+        - {x: -301.9512, y: 235.88393}
+        - {x: -135.8008, y: -104.94482}
+        - {x: -14.185555, y: -262.5}
+        - {x: 28.636711, y: -262.5}
+        - {x: 194.78711, y: 26.933638}
+        - {x: 302, y: 242.73476}
+        - {x: 302, y: 262.5}
+      - - {x: 203.45325, y: -190.62708}
+        - {x: 174.7373, y: -220.4989}
+        - {x: 162.19312, y: -233.22998}
+        - {x: 193.28308, y: -191.4159}
+        - {x: 239.27869, y: -129.01636}
+        - {x: 215.64502, y: -155.81738}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_B_obp)
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -297.77744, y: -221.83981}
+        - {x: -302.5, y: -244.105}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -226.97792}
+        - {x: 212.66399, y: -24.878473}
+        - {x: 13.968674, y: 262.5}
+        - {x: -8.298905, y: 262.5}
+        - {x: -23.714922, y: 250.86739}
+      - - {x: 184.60388, y: 203.9602}
+        - {x: 179.66687, y: 195.55225}
+        - {x: 204.40283, y: 158.62866}
+        - {x: 228.93738, y: 145.88379}
+        - {x: 231.4159, y: 141.7024}
+        - {x: 202.146, y: 191.4159}
+      - - {x: -156.15039, y: 241.59302}
+        - {x: -264.8672, y: 127.64612}
+        - {x: -225.73608, y: 144.3717}
+        - {x: -198.32983, y: 174.64514}
+        - {x: -198.32996, y: 212.323}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_A_opp)
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1661
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202.1012, y: -91.89551}
+        - {x: -168.64978, y: -144.4342}
+        - {x: -165.92871, y: -186.24829}
+        - {x: -165.92871, y: -157.33301}
+        - {x: -196.00525, y: -116.98413}
+      - - {x: -302.45517, y: 262}
+        - {x: -302.45517, y: 247.16016}
+        - {x: -192.83015, y: 33.071747}
+        - {x: -11.263741, y: -261.5139}
+        - {x: 24.706963, y: -261.5139}
+        - {x: 286.77924, y: 180.36456}
+        - {x: 302.5, y: 240.30933}
+        - {x: 302.5, y: 262}
+      - - {x: 210.55652, y: -110.18005}
+        - {x: 144.20776, y: -226.34973}
+        - {x: 156.75208, y: -198.7926}
+        - {x: 235.59729, y: -85.89429}
+        - {x: 172.8761, y: -171.54333}
+        - {x: 185.87122, y: -143.98596}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_B_pop)
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.17958, y: -28.303888}
+        - {x: 10.326063, y: 262.5}
+        - {x: -18.79308, y: 262.5}
+        - {x: -284.29114, y: -177.30942}
+        - {x: -302.5, y: -240.67958}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -235.54146}
+        - {x: 282.6757, y: -182.44754}
+      - - {x: -156.15027, y: 208.14148}
+        - {x: -231.4159, y: 104.06958}
+        - {x: -258.64868, y: 78.98108}
+        - {x: -196.83374, y: 170.66443}
+        - {x: -196.83374, y: 145.42029}
+      - - {x: 182.67407, y: 195.59729}
+        - {x: 186.85547, y: 179.98401}
+        - {x: 218.04004, y: 160.7428}
+        - {x: 249.62744, y: 66.43677}
+        - {x: 214.69019, y: 99.88818}
+        - {x: 172.87598, y: 195.59729}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_A_bop)
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1660
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -230.6731, y: -137.17834}
+        - {x: -235.05615, y: -128.81555}
+        - {x: -197.42358, y: -178.87158}
+        - {x: -178.93408, y: -208.1416}
+        - {x: -185.58423, y: -182.11023}
+        - {x: -198.12842, y: -168.40845}
+        - {x: -208.40552, y: -159.64429}
+      - - {x: -301.95908, y: 262.5}
+        - {x: -301.95908, y: 235.88393}
+        - {x: -50.164154, y: -262.5}
+        - {x: 26.915928, y: -262.5}
+        - {x: 302, y: 139.97232}
+        - {x: 302, y: 262.5}
+      - - {x: 214.68018, y: -147.45471}
+        - {x: 178.15527, y: -186.29163}
+        - {x: 186.51807, y: -208.14148}
+        - {x: 201.646, y: -187.23438}
+        - {x: 193.28296, y: -130.729}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_B_ypp) (0)
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 296.87497, y: -230.40334}
+        - {x: 264.33005, y: -167.03317}
+        - {x: 33.08982, y: 237.16574}
+        - {x: 15.960913, y: 262.5}
+        - {x: -25.148464, y: 262.5}
+        - {x: -302.5, y: -220.1271}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.01364, y: -262.5}
+        - {x: 302.5, y: -261.2321}
+        - {x: 302.5, y: -256.09396}
+        - {x: 302.01364, y: -249.24312}
+      - - {x: -203.94482, y: 145.42029}
+        - {x: -227.23438, y: 128.69458}
+        - {x: -223.05298, y: 110.92041}
+        - {x: -229.63818, y: 131.82751}
+        - {x: -200.7207, y: 167.79419}
+        - {x: -203.94458, y: 157.16345}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_B_ypp) (1)
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302, y: 262}
+        - {x: -302, y: 224.78452}
+        - {x: -26.349625, y: -261.62433}
+        - {x: 9.621079, y: -261.62433}
+        - {x: 91.83983, y: -134.884}
+        - {x: 302, y: 243.6243}
+        - {x: 302, y: 262}
+      - - {x: 166.20062, y: -240.51654}
+        - {x: 187.10773, y: -211.44733}
+        - {x: 205.82733, y: -186.35876}
+        - {x: 247.64154, y: -143.89569}
+        - {x: 268.54858, y: -118.80719}
+        - {x: 238.4436, y: -157.59735}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_D_pgp)
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 292
+        width: 610
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.7646475, y: 262}
+        - {x: -59.438477, y: 203.79556}
+        - {x: -304.38184, y: -244.93373}
+        - {x: -304.38184, y: -262}
+        - {x: 305, y: -262}
+        - {x: 305, y: -238.0829}
+        - {x: 19.354494, y: 262}
+      - - {x: -216.57202, y: 174.19019}
+        - {x: -245.84198, y: 91.25183}
+        - {x: -253.24756, y: 101.32739}
+        - {x: -220.14862, y: 123.03729}
+        - {x: -182.11261, y: 144.92023}
+      - - {x: 189.9895, y: 203.46014}
+        - {x: 181.62671, y: 225.9068}
+        - {x: 195.73303, y: 159.71332}
+        - {x: 213.00879, y: 130.44336}
+        - {x: 183.73889, y: 190.9159}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_D_pyp)
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218.04321, y: -176.0357}
+        - {x: -248.1416, y: -142.58441}
+        - {x: -206.3274, y: -198.90308}
+        - {x: -156.43005, y: -240.71722}
+        - {x: -185.70007, y: -212.7586}
+        - {x: -234.56738, y: -159.51074}
+      - - {x: -302.5, y: 262}
+        - {x: -302.5, y: 224.78452}
+        - {x: -57.685547, y: -261.62433}
+        - {x: 19.394535, y: -261.62433}
+        - {x: 298.5957, y: 195.66849}
+        - {x: 302.5, y: 233.34805}
+        - {x: 302.5, y: 262}
+      - - {x: 256.7815, y: -107.97565}
+        - {x: 190.98682, y: -171.4997}
+        - {x: 167.40967, y: -211.24658}
+        - {x: 161.51526, y: -228.17297}
+        - {x: 181.23889, y: -194.72162}
+        - {x: 214.69019, y: -149.78992}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_E_yop)
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.47554, y: 66.778984}
+        - {x: 29.702093, y: 232.91159}
+        - {x: 7.434514, y: 262}
+        - {x: -13.120173, y: 262}
+        - {x: -184.40924, y: -29.132618}
+        - {x: -283.7569, y: -200.40334}
+        - {x: -302.5, y: -244.93373}
+        - {x: -302.5, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -251.78456}
+        - {x: 269.50677, y: -173.00003}
+      - - {x: -218.87158, y: 144.92029}
+        - {x: -235.59729, y: 106.6662}
+        - {x: -237.96277, y: 94.12201}
+        - {x: -176.90356, y: 178.95459}
+        - {x: -189.44788, y: 144.92029}
+      - - {x: 182.6543, y: 190.91583}
+        - {x: 216.10559, y: 180.86798}
+        - {x: 210.41296, y: 172.659}
+        - {x: 222.60474, y: 155.53186}
+        - {x: 248.1416, y: 134.62482}
+        - {x: 160.33167, y: 203.46014}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_D_byp)
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 610
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -239.27869, y: -131.04016}
+        - {x: -197.46448, y: -166.32733}
+        - {x: -177.59668, y: -212.32294}
+        - {x: -190.14087, y: -181.06323}
+        - {x: -209.93994, y: -156.12866}
+      - - {x: -302, y: 262.5}
+        - {x: -302, y: 136.43646}
+        - {x: -16.080095, y: -262.5}
+        - {x: 64.425766, y: -262.5}
+        - {x: 302, y: 206.65746}
+        - {x: 302, y: 262.5}
+      - - {x: 178.73706, y: -199.70233}
+        - {x: 182.91846, y: -216.5044}
+        - {x: 197.46436, y: -178.87164}
+        - {x: 235.09741, y: -121.5199}
+        - {x: 211.83618, y: -144.13971}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_E_bgp)
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 292
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.589935, y: 262}
+        - {x: -301.95908, y: -236.3702}
+        - {x: -301.95908, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -150.73483}
+        - {x: 25.203037, y: 262}
+      - - {x: -226.69336, y: 157.46454}
+        - {x: -222.51196, y: 120.92316}
+        - {x: -271.7317, y: 105.91022}
+        - {x: -217.72583, y: 108.780334}
+        - {x: -202.30981, y: 169.83575}
+        - {x: -177.22119, y: 157.46454}
+      - - {x: 191.65674, y: 157.46448}
+        - {x: 179.1123, y: 172.30438}
+        - {x: 239.01294, y: 126.26196}
+        - {x: 243.9602, y: 105.35486}
+        - {x: 214.69043, y: 140.73883}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Pu_D_gop)
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 611
+        width: 607
+        height: 526
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -216.72607, y: -135.83392}
+        - {x: -215.69019, y: -127.47107}
+        - {x: -219.87158, y: -170.4895}
+        - {x: -197.68262, y: -166.3081}
+        - {x: -172.594, y: -182.07697}
+        - {x: -172.2417, y: -140.21606}
+      - - {x: 303.5, y: 247.90607}
+        - {x: 303.5, y: 263}
+        - {x: -303.5, y: 263}
+        - {x: -303.5, y: 247.90607}
+        - {x: -93.09473, y: -128.88953}
+        - {x: -12.588868, y: -262.48068}
+        - {x: 9.678711, y: -262.48068}
+        - {x: 37.08496, y: -241.9282}
+        - {x: 211.7998, y: 69.78451}
+        - {x: 237.49316, y: 119.45302}
+        - {x: 295.73145, y: 230.77899}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

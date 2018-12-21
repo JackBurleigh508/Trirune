@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 1b1ba59141a36204fa6afcf283365531
+timeCreated: 1536839691
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Green_Cards_02_0
+    21300002: Card(Gr_E_pgg)
+    21300004: Green_Cards_02_2
+    21300006: Card(Gr_E_bgg)
+    21300008: Green_Cards_02_4
+    21300010: Green_Cards_02_5
+    21300012: Card(Gr_C_bgg)
+    21300014: Card(Gr_C_bpg)
+    21300016: Card(Gr_C_ygg)
+    21300018: Green_Cards_02_9
+    21300020: Card(Gr_C_ypg)
+    21300022: Green_Cards_02_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Cards_02_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.41214, y: -230.40334}
+        - {x: -302.41214, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -216.70169}
+        - {x: 48.730453, y: 262.5}
+        - {x: -18.072283, y: 262.5}
+        - {x: -194.50002, y: -24.878473}
+      - - {x: 189.28912, y: 203.9602}
+        - {x: 185.10773, y: 192.12683}
+        - {x: 236.09119, y: 149.3092}
+        - {x: 235.59729, y: 136.7649}
+        - {x: 218.87158, y: 191.4159}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Gr_E_pgg)
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1660
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197.41565, y: -170.50879}
+        - {x: -199.83344, y: -195.59729}
+        - {x: -195.65198, y: -185.53552}
+        - {x: -212.78088, y: -156.01819}
+        - {x: -225.72833, y: -154.66003}
+        - {x: -193.23431, y: -125.39014}
+      - - {x: -301.9512, y: 262.5}
+        - {x: -301.9512, y: 235.88393}
+        - {x: -135.8008, y: -104.94482}
+        - {x: -14.185555, y: -262.5}
+        - {x: 28.636711, y: -262.5}
+        - {x: 194.78711, y: 26.933638}
+        - {x: 302, y: 242.73476}
+        - {x: 302, y: 262.5}
+      - - {x: 207.63464, y: -207.35266}
+        - {x: 199.8258, y: -224.68042}
+        - {x: 216.55139, y: -220.68579}
+        - {x: 226.73438, y: -208.14148}
+        - {x: 222.55298, y: -187.55615}
+        - {x: 244.91504, y: -185.0874}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Cards_02_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -297.77744, y: -221.83981}
+        - {x: -302.5, y: -244.105}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -226.97792}
+        - {x: 212.66399, y: -24.878473}
+        - {x: 13.968674, y: 262.5}
+        - {x: -8.298905, y: 262.5}
+        - {x: -23.714922, y: 250.86739}
+      - - {x: 197.14807, y: 233.2301}
+        - {x: 213.11804, y: 203.91504}
+        - {x: 233.67285, y: 162.81006}
+        - {x: 224.75586, y: 162.6095}
+        - {x: 227.2345, y: 154.24658}
+        - {x: 214.69019, y: 187.23438}
+      - - {x: -227.2345, y: 195.59729}
+        - {x: -248.14148, y: 156.91602}
+        - {x: -238.2804, y: 144.37183}
+        - {x: -189.96704, y: 137.01233}
+        - {x: -194.14844, y: 212.323}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Gr_E_bgg)
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1661
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -239.73389, y: -175.52393}
+        - {x: -206.2826, y: -194.6112}
+        - {x: -211.92432, y: -219.6997}
+        - {x: -216.10571, y: -199.14722}
+        - {x: -237.81934, y: -146.25403}
+      - - {x: -302.45517, y: 262}
+        - {x: -302.45517, y: 247.16016}
+        - {x: -192.83015, y: 33.071747}
+        - {x: -11.263741, y: -261.5139}
+        - {x: 24.706963, y: -261.5139}
+        - {x: 286.77924, y: 180.36456}
+        - {x: 302.5, y: 240.30933}
+        - {x: 302.5, y: 262}
+      - - {x: 202.19373, y: -185.44556}
+        - {x: 181.84058, y: -201.26135}
+        - {x: 173.47766, y: -228.0625}
+        - {x: 193.78308, y: -186.24841}
+        - {x: 197.9646, y: -175.72473}
+        - {x: 194.23401, y: -156.53015}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Cards_02_4
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190.17958, y: -28.303888}
+        - {x: 10.326063, y: 262.5}
+        - {x: -18.79308, y: 262.5}
+        - {x: -284.29114, y: -177.30942}
+        - {x: -302.5, y: -240.67958}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.5, y: -262.5}
+        - {x: 302.5, y: -235.54146}
+        - {x: 282.6757, y: -182.44754}
+      - - {x: -197.96448, y: 178.87158}
+        - {x: -223.0531, y: 150.06519}
+        - {x: -200.10876, y: 150.06519}
+        - {x: -192.65234, y: 183.20874}
+        - {x: -188.47083, y: 166.32727}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Cards_02_5
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1347
+        width: 605
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 296.87497, y: -230.40334}
+        - {x: 264.33005, y: -167.03317}
+        - {x: 33.08982, y: 237.16574}
+        - {x: 15.960913, y: 262.5}
+        - {x: -25.148464, y: 262.5}
+        - {x: -302.5, y: -220.1271}
+        - {x: -302.5, y: -262.5}
+        - {x: 302.01364, y: -262.5}
+        - {x: 302.5, y: -261.2321}
+        - {x: 302.5, y: -256.09396}
+        - {x: 302.01364, y: -249.24312}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Gr_C_bgg)
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 604
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302, y: 262}
+        - {x: -302, y: 224.78452}
+        - {x: -26.349625, y: -261.62433}
+        - {x: 9.621079, y: -261.62433}
+        - {x: 91.83983, y: -134.884}
+        - {x: 302, y: 243.6243}
+        - {x: 302, y: 262}
+      - - {x: 182.92633, y: -198.7024}
+        - {x: 187.10773, y: -211.44733}
+        - {x: 193.28308, y: -207.26587}
+        - {x: 218.37164, y: -168.98419}
+        - {x: 210.00879, y: -164.8028}
+        - {x: 213.3551, y: -182.68591}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Gr_C_bpg)
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 292
+        width: 610
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.7646475, y: 262}
+        - {x: -59.438477, y: 203.79556}
+        - {x: -304.38184, y: -244.93373}
+        - {x: -304.38184, y: -262}
+        - {x: 305, y: -262}
+        - {x: 305, y: -238.0829}
+        - {x: 19.354494, y: 262}
+      - - {x: -183.12067, y: 195.09729}
+        - {x: -220.75348, y: 120.52173}
+        - {x: -215.6148, y: 130.59735}
+        - {x: -203.42297, y: 160.6701}
+        - {x: -198.83832, y: 174.19019}
+      - - {x: 164.901, y: 207.64154}
+        - {x: 202.53381, y: 175.7298}
+        - {x: 225.00305, y: 151.35046}
+        - {x: 233.9159, y: 130.44336}
+        - {x: 187.92029, y: 190.91583}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Gr_C_ygg)
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 611
+        width: 605
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -230.58752, y: -163.49152}
+        - {x: -214.69019, y: -188.57996}
+        - {x: -197.9646, y: -207.26587}
+        - {x: -185.69995, y: -207.26587}
+        - {x: -194.06287, y: -191.8515}
+        - {x: -205.29736, y: -172.05505}
+      - - {x: -302.5, y: 262}
+        - {x: -302.5, y: 224.78452}
+        - {x: -57.685547, y: -261.62433}
+        - {x: 19.394535, y: -261.62433}
+        - {x: 298.5957, y: 195.66849}
+        - {x: 302.5, y: 233.34805}
+        - {x: 302.5, y: 262}
+      - - {x: 219.14868, y: -166.5155}
+        - {x: 161.71692, y: -200.76965}
+        - {x: 192.49805, y: -194.52094}
+        - {x: 190.78528, y: -215.62872}
+        - {x: 197.96448, y: -177.99591}
+        - {x: 214.69019, y: -141.427}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Cards_02_9
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 292
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.47554, y: 66.778984}
+        - {x: 29.702093, y: 232.91159}
+        - {x: 7.434514, y: 262}
+        - {x: -13.120173, y: 262}
+        - {x: -184.40924, y: -29.132618}
+        - {x: -283.7569, y: -200.40334}
+        - {x: -302.5, y: -244.93373}
+        - {x: -302.5, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -251.78456}
+        - {x: 269.50677, y: -173.00003}
+      - - {x: -227.23438, y: 174.19019}
+        - {x: -252.32288, y: 144.29901}
+        - {x: -217.05579, y: 161.02466}
+        - {x: -214.53638, y: 170.59174}
+        - {x: -201.99219, y: 182.55304}
+      - - {x: 211.9242, y: 216.0044}
+        - {x: 220.28699, y: 159.96088}
+        - {x: 189.50574, y: 168.47754}
+        - {x: 230.96765, y: 151.35052}
+        - {x: 227.2345, y: 159.71332}
+        - {x: 206.32727, y: 195.09729}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Card(Gr_C_ypg)
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 610
+        width: 604
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -243.46008, y: -151.9472}
+        - {x: -201.646, y: -174.69019}
+        - {x: -202.68518, y: -212.32294}
+        - {x: -231.95508, y: -201.97034}
+        - {x: -218.30273, y: -181.2171}
+      - - {x: -302, y: 262.5}
+        - {x: -302, y: 136.43646}
+        - {x: -16.080095, y: -262.5}
+        - {x: 64.425766, y: -262.5}
+        - {x: 302, y: 206.65746}
+        - {x: 302, y: 262.5}
+      - - {x: 203.82568, y: -212.24658}
+        - {x: 195.46265, y: -195.59729}
+        - {x: 197.46436, y: -208.14154}
+        - {x: 239.27881, y: -171.69696}
+        - {x: 220.19873, y: -156.68396}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Cards_02_11
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 292
+        width: 605
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.589935, y: 262}
+        - {x: -301.95908, y: -236.3702}
+        - {x: -301.95908, y: -262}
+        - {x: 302.5, y: -262}
+        - {x: 302.5, y: -150.73483}
+        - {x: 25.203037, y: 262}
+      - - {x: -218.33057, y: 182.55304}
+        - {x: -214.14917, y: 166.91876}
+        - {x: -229.91748, y: 114.27307}
+        - {x: -209.36304, y: 154.77588}
+        - {x: -189.76538, y: 203.28711}
+        - {x: -189.76538, y: 190.9159}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

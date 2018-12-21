@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{99E87E36-82D3-9994-5DF8-0E9BB8EF9FC6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DrawGreenCard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/movePiece.cs" Line="109" Column="20" />
+      <File FileName="Assets/Scripts/DrawOrangeCard.cs" Line="9" Column="24" />
+      <File FileName="Assets/Scripts/DrawBlueCard.cs" Line="17" Column="39" />
+      <File FileName="Assets/Scripts/DrawGreenCard.cs" Line="19" Column="39" />
+      <File FileName="Assets/Scripts/DrawYellowCard.cs" Line="23" Column="3" />
+      <File FileName="Assets/Scripts/DrawPurpleCard.cs" Line="17" Column="13" />
+      <File FileName="Assets/Scripts/DrawCard.cs" Line="17" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
