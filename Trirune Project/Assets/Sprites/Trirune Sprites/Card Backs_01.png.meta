@@ -14,7 +14,7 @@ TextureImporter:
     21300018: Purple
     21300020: White
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -113,8 +113,8 @@ TextureImporter:
         y: 1661
         width: 604
         height: 524
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -301.9512, y: 262}
@@ -139,8 +139,8 @@ TextureImporter:
         y: 1661
         width: 605
         height: 524
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 302.5, y: 262}
@@ -168,8 +168,8 @@ TextureImporter:
         y: 1660
         width: 605
         height: 525
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -302.5, y: 262.5}
@@ -196,8 +196,8 @@ TextureImporter:
         y: 1006
         width: 605
         height: 524
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -12.898431, y: 262}
@@ -222,8 +222,8 @@ TextureImporter:
         y: 1006
         width: 604
         height: 524
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 9.865222, y: 261.82864}
@@ -250,8 +250,8 @@ TextureImporter:
         y: 1006
         width: 605
         height: 524
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18.044943, y: 262}
